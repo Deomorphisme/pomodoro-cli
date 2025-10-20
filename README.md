@@ -31,6 +31,15 @@
    pomodoro -c 4 -f 25 -r 5  # 4 cycles of 25min focus / 5min rest
    ```
 
+Or
+
+Use the setup script:
+```bash
+chmod u+x setup-pomodoro.sh
+./setup-pomodoro.sh
+```
+
+
 #### **📂 Project Structure**
 ```
 pomodoro-cli/
