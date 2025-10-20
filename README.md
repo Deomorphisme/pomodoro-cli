@@ -16,7 +16,7 @@
 #### **🚀 Installation**
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/pomodoro-cli.git
+   git clone https://github.com/Deomorphisme/pomodoro-cli.git
    ```
 2. Make the script executable:
    ```bash
